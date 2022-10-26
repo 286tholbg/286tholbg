@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/steamuserimages-a.akamaihd.net/ugc/987882571319183490/8BB8F64A3A0FD02F5261CA32FD4246554FE8ABEA/)](https://www.tholbok286.xyz/)
+<!-- [![MasterHead](https://i0.wp.com/steamuserimages-a.akamaihd.net/ugc/987882571319183490/8BB8F64A3A0FD02F5261CA32FD4246554FE8ABEA/)](https://www.tholbok286.xyz/) -->
 <h1 align="center">Hi 👋, I'm Gat</h1>
 <h3 align="center">I'm a growth-minded frontend developer from Melbourne</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
