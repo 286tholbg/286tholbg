@@ -1,10 +1,7 @@
 [![MasterHead](https://media3.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif)](https://www.tholbok286.xyz/)
 <h1 align="center">Hi 👋, I'm Gat</h1>
 <h3 align="center">I'm a frontend developer from Melbourne</h3>
-<!-- <img align="right" alt="coding" width="400" src="https://media.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif"> -->
-
-<h1 align="center">Hi 👋, I'm Gat</h1>
-<h3 align="center">I'm a frontend developer from Melbourne</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/d7_52xh_2dQAAAAC/dog-work.gif">
 
 <p align="left"> <a href="https://twitter.com/gat_tholbok" target="blank"><img src="https://img.shields.io/twitter/follow/gat_tholbok?logo=twitter&style=for-the-badge" alt="gat_tholbok" /></a> </p>
 
